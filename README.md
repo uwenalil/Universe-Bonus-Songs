@@ -16,7 +16,7 @@
 
 heres some silliest songs that work with universe engine and has a modchart?!?!?!
 
-IF YOU DO POST THIS ON YOUTUBE OR SOMEWHERE, PLEASE CREDIT.
+IF YOU DO POST THIS ON YOUTUBE OR SOMEWHERE, PLEASE CREDIT ME AND THE ORIGINAL MOD MAKERS.
 
 Universe Engine REPO: https://github.com/VideoBotYT/Universe-Engine
 
