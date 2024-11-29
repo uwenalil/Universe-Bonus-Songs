@@ -14,7 +14,7 @@
   took inspo from JS Engine.
 </h4>
 
-# ay mate!
+# Ay mate!
 
 heres some silliest songs that work with universe engine and has a modchart?!?!?!
 
