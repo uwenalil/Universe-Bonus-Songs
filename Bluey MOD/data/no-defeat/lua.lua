@@ -1,4 +1,3 @@
-local universe = false
 function onCreatePost()
     -- debugging bugs
     luaDebugMode = true
@@ -56,10 +55,6 @@ function onCreatePost()
     setTextFont('scoreTxt', 'funkin.ttf')
     setObjectCamera('timeTxt', 'other')
     setObjectCamera('timeBar', 'other')
-
-    if universeEngine then
-        modchart()
-    end
 end
 
 function onStepHit()
@@ -249,7 +244,7 @@ function onSongStart()
     createBackParticle(100, 5)
 
     -- ue shit
-    if universe then
+    if universeEngine then
         setProperty("UE song name popup.y", getProperty("UE song name popup.y") - 150)
         setProperty("UE info 1.y", getProperty("UE song name popup.y") - 150)
         setProperty("UE info 2.y", getProperty("UE song name popup.y") - 150)
@@ -739,7 +734,7 @@ function countDownPRELOAD()
 end
 
 function visibleHud(truefalse)
-    if universe then
+    if universeEngine then
         -- ue hud
         setProperty("UEsong.visible", truefalse)
         setProperty("UEtimeTxt.visible", truefalse)
@@ -1743,3 +1738,4 @@ end
 function continuous_sin(x)
     return math.sin((x % 1) * 2 * math.pi)
 end
+--me when 1741 line of code LMAO
