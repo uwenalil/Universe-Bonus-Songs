@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bb.png"><SubTexture name="bb down0000" x="4096" y="1377" width="760" height="1356" frameX="-820" frameY="-491" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb down0001" x="1475" y="1431" width="737" height="1381" frameX="-812" frameY="-466" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb down0002" x="764" y="1431" width="711" height="1396" frameX="-811" frameY="-451" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb idle0000" x="1248" y="0" width="756" height="1415" frameX="-792" frameY="-432" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb idle0001" x="0" y="1431" width="764" height="1397" frameX="-782" frameY="-450" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb idle0002" x="2212" y="1431" width="755" height="1378" frameX="-783" frameY="-469" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb idle0003" x="0" y="2828" width="783" height="1352" frameX="-791" frameY="-495" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb left0000" x="1646" y="2828" width="739" height="1336" frameX="-678" frameY="-513" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb left0001" x="3393" y="1378" width="702" height="1356" frameX="-736" frameY="-493" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb left0002" x="3393" y="0" width="703" height="1378" frameX="-745" frameY="-470" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb right0000" x="783" y="2828" width="863" height="1346" frameX="-860" frameY="-501" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb right0001" x="4096" y="0" width="789" height="1377" frameX="-840" frameY="-470" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb right0002" x="2667" y="0" width="726" height="1401" frameX="-811" frameY="-446" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb up0000" x="0" y="0" width="606" height="1431" frameX="-797" frameY="-416" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb up0001" x="606" y="0" width="642" height="1416" frameX="-792" frameY="-431" frameWidth="2371" frameHeight="2353" />
+<SubTexture name="bb up0002" x="2004" y="0" width="663" height="1402" frameX="-793" frameY="-445" frameWidth="2371" frameHeight="2353" />
+</TextureAtlas>

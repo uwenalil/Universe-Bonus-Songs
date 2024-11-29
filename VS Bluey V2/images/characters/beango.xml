@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="beango.png"><SubTexture name="beango down0000" x="6008" y="0" width="1156" height="1465" frameX="-457" frameY="-549" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango down0001" x="0" y="3271" width="1072" height="1544" frameX="-495" frameY="-470" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango down0002" x="0" y="1690" width="1002" height="1581" frameX="-528" frameY="-432" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango up0000" x="0" y="0" width="901" height="1690" frameX="-586" frameY="-324" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango up0001" x="901" y="0" width="948" height="1635" frameX="-562" frameY="-379" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango up0002" x="2851" y="0" width="1002" height="1581" frameX="-528" frameY="-432" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango idle0000" x="0" y="4815" width="1217" height="1390" frameX="-455" frameY="-624" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango idle0001" x="4871" y="0" width="1137" height="1467" frameX="-482" frameY="-547" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango idle0002" x="2172" y="3271" width="1064" height="1522" frameX="-509" frameY="-492" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango idle0003" x="1002" y="1690" width="1002" height="1581" frameX="-528" frameY="-432" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango left0000" x="3236" y="3271" width="1032" height="1511" frameX="-498" frameY="-503" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango left0001" x="3853" y="0" width="1018" height="1545" frameX="-512" frameY="-469" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango left0002" x="1849" y="0" width="1002" height="1581" frameX="-528" frameY="-432" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango right0000" x="1072" y="3271" width="1100" height="1533" frameX="-528" frameY="-481" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango right0001" x="2004" y="1690" width="1055" height="1567" frameX="-528" frameY="-447" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="beango right0002" x="2851" y="0" width="1002" height="1581" frameX="-528" frameY="-432" frameWidth="2223" frameHeight="2188" />
+</TextureAtlas>

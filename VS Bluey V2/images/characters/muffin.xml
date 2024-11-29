@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="muffin.png">
+<SubTexture name="muffin idle0000" x="0" y="6702" width="1310" height="1269" frameX="-379" frameY="-726" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin idle0001" x="4717" y="5290" width="1254" height="1331" frameX="-409" frameY="-664" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin idle0002" x="1152" y="5290" width="1189" height="1388" frameX="-436" frameY="-607" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin idle0003" x="2319" y="3803" width="1146" height="1432" frameX="-456" frameY="-562" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin down0000" x="7084" y="0" width="1244" height="1319" frameX="-419" frameY="-676" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin down0001" x="2341" y="5290" width="1189" height="1385" frameX="-441" frameY="-610" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin down0002" x="3465" y="3803" width="1146" height="1432" frameX="-456" frameY="-562" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin left0000" x="3530" y="5290" width="1187" height="1344" frameX="-409" frameY="-651" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin left0001" x="0" y="5290" width="1152" height="1412" frameX="-448" frameY="-583" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin left0002" x="4611" y="3803" width="1146" height="1432" frameX="-456" frameY="-562" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin right0000" x="5938" y="2837" width="1138" height="1345" frameX="-470" frameY="-650" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin right0001" x="5938" y="1432" width="1142" height="1405" frameX="-463" frameY="-590" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin right0002" x="5938" y="0" width="1146" height="1432" frameX="-456" frameY="-562" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin up0000" x="4931" y="0" width="1007" height="1524" frameX="-522" frameY="-471" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin up0001" x="1229" y="3803" width="1090" height="1483" frameX="-482" frameY="-512" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin up0002" x="4611" y="3803" width="1146" height="1432" frameX="-456" frameY="-562" frameWidth="2223" frameHeight="2188" />
+<SubTexture name="muffin transition0000" x="0" y="3803" width="1229" height="1487" frameX="-912" frameY="-1012" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="muffin transition0001" x="3166" y="1967" width="1347" height="1532" frameX="-912" frameY="-1012" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="muffin transition0002" x="0" y="0" width="1740" height="1967" frameX="-912" frameY="-1012" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="muffin transition0003" x="1740" y="0" width="1596" height="1847" frameX="-879" frameY="-1012" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="muffin transition0004" x="3336" y="0" width="1595" height="1836" frameX="-718" frameY="-1012" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="muffin transition0005" x="0" y="1967" width="1578" height="1836" frameX="-669" frameY="-1012" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="muffin transition0006" x="1578" y="1967" width="1588" height="1737" frameX="-660" frameY="-1012" frameWidth="3136" frameHeight="3088" />
+</TextureAtlas>

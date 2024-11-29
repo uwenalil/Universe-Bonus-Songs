@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bluesnap.png"><SubTexture name="bluesnap snap0000" x="0" y="0" width="1308" height="2275" frameX="-760" frameY="-213" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="bluesnap snap0001" x="1308" y="0" width="1308" height="2275" frameX="-760" frameY="-213" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="bluesnap snap0002" x="2616" y="0" width="1393" height="2257" frameX="-724" frameY="-232" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="bluesnap snap0003" x="4009" y="0" width="1437" height="2223" frameX="-681" frameY="-266" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="bluesnap snap0004" x="0" y="2275" width="1494" height="2162" frameX="-625" frameY="-327" frameWidth="2666" frameHeight="2648" />
+</TextureAtlas>

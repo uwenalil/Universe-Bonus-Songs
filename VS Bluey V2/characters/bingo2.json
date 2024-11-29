@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "bingo idle",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "bingo down",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "bingo up",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "bingo right",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "bingo left",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bingo2",
+	"position": [
+		-1070,
+		-740
+	],
+	"healthicon": "bingo",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		177,
+		112
+	],
+	"camera_position": [
+		790,
+		940
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.3
+}

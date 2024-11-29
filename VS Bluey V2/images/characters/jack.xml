@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jack.png">
+<SubTexture name="jack idle dance0000" x="0" y="0" width="1279" height="1906" frameX="-643" frameY="-578" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="jack idle dance0001" x="1279" y="0" width="1285" height="1880" frameX="-663" frameY="-605" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="jack idle dance0002" x="2564" y="0" width="1277" height="1855" frameX="-697" frameY="-630" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="jack idle dance0003" x="0" y="1906" width="1306" height="1823" frameX="-720" frameY="-662" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="jack idle dance0004" x="2564" y="0" width="1277" height="1855" frameX="-697" frameY="-630" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="jack idle dance0005" x="1279" y="0" width="1285" height="1880" frameX="-663" frameY="-605" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="jack idle dance0006" x="0" y="0" width="1279" height="1906" frameX="-643" frameY="-578" frameWidth="2666" frameHeight="2648" />
+</TextureAtlas>

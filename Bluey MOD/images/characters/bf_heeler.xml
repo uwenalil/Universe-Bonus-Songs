@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_heeler.png">
+	<SubTexture name="bf heeler down0000" x="1024" y="512" width="512" height="512"/>
+	<SubTexture name="bf heeler down0001" x="1024" y="512" width="512" height="512"/>
+	<SubTexture name="bf heeler down0002" x="1534" y="512" width="512" height="512"/>
+	<SubTexture name="bf heeler down0003" x="1534" y="512" width="512" height="512"/>
+	<SubTexture name="bf heeler down0004" x="1534" y="512" width="512" height="512"/>
+	<SubTexture name="bf heeler down0005" x="1534" y="512" width="512" height="512"/>
+	<SubTexture name="bf heeler down0006" x="1534" y="512" width="512" height="512"/>
+	<SubTexture name="bf heeler down0007" x="1534" y="512" width="512" height="512"/>
+	<SubTexture name="bf heeler down0008" x="1534" y="512" width="512" height="512"/>
+	<SubTexture name="bf heeler down0009" x="1534" y="512" width="512" height="512"/>
+	<SubTexture name="bf heeler idle0000" x="0" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler idle0001" x="0" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler idle0002" x="512" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler idle0003" x="512" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler idle0004" x="512" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler idle0005" x="1024" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler idle0006" x="1024" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler idle0007" x="1024" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler idle0008" x="1536" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler idle0009" x="1536" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler idle0010" x="1536" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler left0000" x="0" y="1024" width="512" height="512"/>
+	<SubTexture name="bf heeler left0001" x="0" y="1024" width="512" height="512"/>
+	<SubTexture name="bf heeler left0002" x="512" y="1024" width="512" height="512"/>
+	<SubTexture name="bf heeler left0003" x="512" y="1024" width="512" height="512"/>
+	<SubTexture name="bf heeler left0004" x="512" y="1024" width="512" height="512"/>
+	<SubTexture name="bf heeler left0005" x="512" y="1024" width="512" height="512"/>
+	<SubTexture name="bf heeler left0006" x="512" y="1024" width="512" height="512"/>
+	<SubTexture name="bf heeler left0007" x="512" y="1024" width="512" height="512"/>
+	<SubTexture name="bf heeler left0008" x="512" y="1024" width="512" height="512"/>
+	<SubTexture name="bf heeler left0009" x="512" y="1024" width="512" height="512"/>
+	<SubTexture name="bf heeler left0010" x="512" y="1024" width="512" height="512"/>
+	<SubTexture name="bf heeler left0011" x="512" y="1024" width="512" height="512"/>
+	<SubTexture name="bf heeler right0000" x="1024" y="1024" width="512" height="512"/>
+	<SubTexture name="bf heeler right0001" x="1024" y="1024" width="512" height="512"/>
+	<SubTexture name="bf heeler right0002" x="1536" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler right0003" x="1536" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler right0004" x="1536" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler right0005" x="1536" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler right0006" x="1536" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler right0007" x="1536" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler right0008" x="1536" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler right0009" x="1536" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler up0000" x="0" y="512" width="512" height="512"/>
+	<SubTexture name="bf heeler up0001" x="0" y="512" width="512" height="512"/>
+	<SubTexture name="bf heeler up0002" x="512" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler up0003" x="512" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler up0004" x="512" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler up0005" x="512" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler up0006" x="512" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler up0007" x="512" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler up0008" x="512" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler up0009" x="512" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+</TextureAtlas>

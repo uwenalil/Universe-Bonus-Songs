@@ -1,0 +1,82 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "soul-bingo idle"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "soul-bingo down"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "soul-bingo up"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "soul-bingo right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "soul-bingo left",
+			"indices": [
+				5,
+				1,
+				2
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soul-bingo",
+	"position": [
+		-1070,
+		-820
+	],
+	"healthicon": "exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		133,
+		199,
+		250
+	],
+	"camera_position": [
+		950,
+		940
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.3
+}

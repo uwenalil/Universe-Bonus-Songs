@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="furrygf-assets.png">
+<SubTexture name="gf idle dance0000" x="5149" y="0" width="1624" height="2018" frameX="-358" frameY="-290" frameWidth="2423" frameHeight="2414" />
+<SubTexture name="gf idle dance0001" x="0" y="2143" width="1682" height="2084" frameX="-363" frameY="-224" frameWidth="2423" frameHeight="2414" />
+<SubTexture name="gf idle dance0002" x="1726" y="0" width="1697" height="2120" frameX="-387" frameY="-188" frameWidth="2423" frameHeight="2414" />
+<SubTexture name="gf idle dance0003" x="0" y="0" width="1726" height="2143" frameX="-407" frameY="-164" frameWidth="2423" frameHeight="2414" />
+</TextureAtlas>

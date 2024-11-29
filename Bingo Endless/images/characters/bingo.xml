@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bingo.png">
+<SubTexture name="bingo danceleft0000" x="9250" y="4519" width="1834" height="2221" frameX="-270" frameY="-167" frameWidth="2580" frameHeight="2580" />
+<SubTexture name="bingo danceleft0001" x="9250" y="0" width="1917" height="2281" frameX="-234" frameY="-107" frameWidth="2580" frameHeight="2580" />
+<SubTexture name="bingo danceleft0002" x="7268" y="0" width="1982" height="2326" frameX="-211" frameY="-62" frameWidth="2580" frameHeight="2580" />
+<SubTexture name="bingo danceleft0003" x="0" y="4882" width="1973" height="2353" frameX="-220" frameY="-35" frameWidth="2580" frameHeight="2580" />
+<SubTexture name="bingo danceright0000" x="1991" y="7235" width="1880" height="2207" frameX="-342" frameY="-181" frameWidth="2580" frameHeight="2580" />
+<SubTexture name="bingo danceright0001" x="0" y="7235" width="1991" height="2274" frameX="-263" frameY="-114" frameWidth="2580" frameHeight="2580" />
+<SubTexture name="bingo danceright0002" x="7268" y="2326" width="1980" height="2315" frameX="-236" frameY="-73" frameWidth="2580" frameHeight="2580" />
+<SubTexture name="bingo danceright0003" x="0" y="4882" width="1973" height="2353" frameX="-220" frameY="-35" frameWidth="2580" frameHeight="2580" />
+<SubTexture name="bingo left0000" x="3987" y="4882" width="1842" height="2331" frameX="-521" frameY="-508" frameWidth="3480" frameHeight="3480" />
+<SubTexture name="bingo left0001" x="5439" y="0" width="1829" height="2357" frameX="-611" frameY="-482" frameWidth="3480" frameHeight="3480" />
+<SubTexture name="bingo left0002" x="0" y="2495" width="1916" height="2387" frameX="-679" frameY="-451" frameWidth="3480" frameHeight="3480" />
+<SubTexture name="bingo down0000" x="3871" y="7235" width="1707" height="2139" frameX="-721" frameY="-704" frameWidth="3480" frameHeight="3480" />
+<SubTexture name="bingo down0001" x="5439" y="2357" width="1671" height="2190" frameX="-732" frameY="-649" frameWidth="3480" frameHeight="3480" />
+<SubTexture name="bingo down0002" x="9250" y="2281" width="1709" height="2238" frameX="-694" frameY="-601" frameWidth="3480" frameHeight="3480" />
+<SubTexture name="bingo up0000" x="0" y="0" width="1622" height="2495" frameX="-940" frameY="-344" frameWidth="3480" frameHeight="3480" />
+<SubTexture name="bingo up0001" x="1622" y="0" width="1846" height="2448" frameX="-791" frameY="-391" frameWidth="3480" frameHeight="3480" />
+<SubTexture name="bingo up0002" x="3468" y="0" width="1971" height="2395" frameX="-694" frameY="-443" frameWidth="3480" frameHeight="3480" />
+<SubTexture name="bingo right0000" x="7268" y="4641" width="1922" height="2298" frameX="-897" frameY="-541" frameWidth="3480" frameHeight="3480" />
+<SubTexture name="bingo right0001" x="1973" y="4882" width="2014" height="2341" frameX="-758" frameY="-498" frameWidth="3480" frameHeight="3480" />
+<SubTexture name="bingo right0002" x="1916" y="2495" width="2031" height="2375" frameX="-674" frameY="-463" frameWidth="3480" frameHeight="3480" />
+</TextureAtlas>

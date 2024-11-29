@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_heeler.png">
+	<SubTexture name="gf heeler DL0000" x="0" y="0" width="512" height="512"/>
+	<SubTexture name="gf heeler DL0001" x="512" y="0" width="512" height="512"/>
+	<SubTexture name="gf heeler DL0002" x="1024" y="0" width="512" height="512"/>
+	<SubTexture name="gf heeler DL0003" x="1536" y="0" width="512" height="512"/>
+	<SubTexture name="gf heeler DR0000" x="0" y="512" width="512" height="512"/>
+	<SubTexture name="gf heeler DR0001" x="512" y="512" width="512" height="512"/>
+	<SubTexture name="gf heeler DR0002" x="1024" y="512" width="512" height="512"/>
+	<SubTexture name="gf heeler DR0003" x="1536" y="512" width="512" height="512"/>
+</TextureAtlas>

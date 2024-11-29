@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "bluey_idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "bluey_idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bluey_left"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bluey_right"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bluey_down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bluey_up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bluey",
+	"position": [
+		-90,
+		170
+	],
+	"healthicon": "bluey",
+	"flip_x": false,
+	"healthbar_colors": [
+		134,
+		199,
+		249
+	],
+	"camera_position": [
+		220,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

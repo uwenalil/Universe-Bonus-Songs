@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"fps": 15,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "bingo idle dance"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 15,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "bingo idle dance"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bingo",
+	"position": [
+		-730,
+		-430
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		10,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

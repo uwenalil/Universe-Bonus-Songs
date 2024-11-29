@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "rusty idle",
+			"indices": [
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"offsets": [
+				-4,
+				2
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "rusty right"
+		},
+		{
+			"offsets": [
+				39,
+				3
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "rusty left"
+		},
+		{
+			"offsets": [
+				3,
+				3
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "rusty down"
+		},
+		{
+			"offsets": [
+				-1,
+				1
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [
+				2,
+				1,
+				0,
+				3
+			],
+			"name": "rusty up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rusty",
+	"position": [
+		-1170,
+		-860
+	],
+	"healthicon": "rusty",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		75,
+		55
+	],
+	"camera_position": [
+		1180,
+		930
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.27
+}

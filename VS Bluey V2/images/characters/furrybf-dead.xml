@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="furrybf-dead.png">
+<SubTexture name="death start0000" x="0" y="4506" width="1645" height="2094" frameX="-466" frameY="-961" frameWidth="2423" frameHeight="3314" />
+<SubTexture name="death start0001" x="1645" y="4506" width="1549" height="1972" frameX="-500" frameY="-1079" frameWidth="2423" frameHeight="3314" />
+<SubTexture name="death start0002" x="6052" y="2219" width="1486" height="1892" frameX="-522" frameY="-1155" frameWidth="2423" frameHeight="3314" />
+<SubTexture name="death start0003" x="0" y="2287" width="1486" height="2219" frameX="-522" frameY="-828" frameWidth="2423" frameHeight="3314" />
+<SubTexture name="death start0004" x="1486" y="2287" width="1486" height="2219" frameX="-522" frameY="-828" frameWidth="2423" frameHeight="3314" />
+<SubTexture name="death start0005" x="2972" y="2287" width="1486" height="2219" frameX="-522" frameY="-828" frameWidth="2423" frameHeight="3314" />
+<SubTexture name="death start0006" x="4566" y="0" width="1486" height="2219" frameX="-522" frameY="-828" frameWidth="2423" frameHeight="3314" />
+<SubTexture name="death start0007" x="4566" y="2219" width="1486" height="2219" frameX="-522" frameY="-828" frameWidth="2423" frameHeight="3314" />
+<SubTexture name="death start0008" x="6052" y="0" width="1486" height="2219" frameX="-522" frameY="-828" frameWidth="2423" frameHeight="3314" />
+<SubTexture name="death loop0000" x="0" y="0" width="1594" height="2287" frameX="-440" frameY="-760" frameWidth="2423" frameHeight="3314" />
+<SubTexture name="death loop0001" x="1594" y="0" width="1486" height="2253" frameX="-522" frameY="-794" frameWidth="2423" frameHeight="3314" />
+<SubTexture name="death loop0002" x="3080" y="0" width="1486" height="2230" frameX="-522" frameY="-817" frameWidth="2423" frameHeight="3314" />
+<SubTexture name="death end0000" x="6052" y="2219" width="1486" height="1892" frameX="-522" frameY="-1155" frameWidth="2423" frameHeight="3314" />
+</TextureAtlas>

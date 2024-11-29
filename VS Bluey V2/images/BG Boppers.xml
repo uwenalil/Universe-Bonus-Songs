@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BG Boppers.png">
+<SubTexture name="BG Boppers Idle0000" x="0" y="1167" width="1690" height="530" frameX="-154" frameY="-283" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="BG Boppers Idle0001" x="0" y="603" width="1669" height="564" frameX="-158" frameY="-249" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="BG Boppers Idle0002" x="1607" y="0" width="1634" height="584" frameX="-169" frameY="-229" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="BG Boppers Idle0003" x="0" y="0" width="1607" height="603" frameX="-181" frameY="-210" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

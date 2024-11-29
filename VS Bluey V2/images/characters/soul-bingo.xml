@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="soul-bingo.png">
+<SubTexture name="soul-bingo idle0000" x="1377" y="0" width="725" height="1503" frameX="-702" frameY="-747" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo idle0001" x="1377" y="0" width="725" height="1503" frameX="-702" frameY="-747" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo idle0002" x="1377" y="0" width="725" height="1503" frameX="-702" frameY="-747" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo idle0003" x="1377" y="0" width="725" height="1503" frameX="-702" frameY="-747" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo idle0004" x="1377" y="0" width="725" height="1503" frameX="-702" frameY="-747" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo left0005" x="3552" y="0" width="772" height="1442" frameX="-611" frameY="-809" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo idle0006" x="1377" y="0" width="725" height="1503" frameX="-702" frameY="-747" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo left0001" x="725" y="1545" width="756" height="1477" frameX="-637" frameY="-774" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo left0002" x="2102" y="0" width="725" height="1503" frameX="-702" frameY="-747" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo right0000" x="0" y="3048" width="873" height="1416" frameX="-737" frameY="-835" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo right0001" x="1481" y="1545" width="796" height="1464" frameX="-719" frameY="-786" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo right0002" x="2827" y="0" width="725" height="1503" frameX="-702" frameY="-747" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo up0000" x="0" y="0" width="680" height="1545" frameX="-747" frameY="-706" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo up0001" x="680" y="0" width="697" height="1527" frameX="-727" frameY="-724" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo up0002" x="2827" y="0" width="725" height="1503" frameX="-702" frameY="-747" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo down0000" x="4324" y="0" width="775" height="1428" frameX="-734" frameY="-823" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo down0001" x="2277" y="1545" width="765" height="1457" frameX="-717" frameY="-794" frameWidth="2570" frameHeight="2605" />
+<SubTexture name="soul-bingo down0002" x="0" y="1545" width="725" height="1503" frameX="-702" frameY="-747" frameWidth="2570" frameHeight="2605" />
+</TextureAtlas>

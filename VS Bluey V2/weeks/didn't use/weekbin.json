@@ -1,0 +1,50 @@
+{
+	"storyName": "luck",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "bin",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekblu",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"bingo",
+			"bingo",
+			[
+				255,
+				170,
+				80
+			]
+		],
+		[
+			"fun times",
+			"bingo",
+			[
+				255,
+				170,
+				80
+			]
+		],
+		[
+			"jackpot",
+			"blungo",
+			[
+				255,
+				170,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week1",
+	"hiddenUntilUnlocked": false
+}

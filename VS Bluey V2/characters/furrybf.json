@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "bfdoggy dance idle",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "bfdoggy down note",
+			"indices": [
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "bfdoggy left",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "bfdoggy righty",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"offsets": [
+				-1,
+				1
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bfdoggy up note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 15,
+			"name": "bfdoggy left miss",
+			"indices": [
+				2,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 15,
+			"name": "bfdoggy righty oops",
+			"indices": [
+				2,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 15,
+			"name": "bfdoggy up miss",
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 15,
+			"name": "bfdoggy missed down",
+			"indices": [
+				2,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"offsets": [
+				121,
+				203
+			],
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"fps": 13,
+			"anim": "hey",
+			"loop": false,
+			"name": "bfdoggy peacin' out"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfdoggy",
+	"position": [
+		-450,
+		-420
+	],
+	"healthicon": "furrybf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-370,
+		500
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bluey.png"><SubTexture name="bluey fnaf up0000" x="0" y="0" width="969" height="2238" frameX="-591" frameY="-154" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf up0001" x="969" y="0" width="1178" height="2056" frameX="-504" frameY="-336" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf up0002" x="2147" y="0" width="1331" height="1933" frameX="-434" frameY="-459" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf idle0000" x="1110" y="2238" width="1019" height="1692" frameX="-656" frameY="-699" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf idle0001" x="2129" y="2238" width="1000" height="1675" frameX="-681" frameY="-717" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf idle0002" x="4535" y="0" width="985" height="1648" frameX="-703" frameY="-744" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf idle0003" x="5520" y="1646" width="965" height="1617" frameX="-733" frameY="-775" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf idle0004" x="4535" y="0" width="985" height="1648" frameX="-703" frameY="-744" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf idle0005" x="2129" y="2238" width="1000" height="1675" frameX="-681" frameY="-717" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf idle0006" x="1110" y="2238" width="1019" height="1692" frameX="-656" frameY="-699" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf left0000" x="5520" y="0" width="1065" height="1646" frameX="-648" frameY="-747" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf left0001" x="0" y="3931" width="1101" height="1618" frameX="-587" frameY="-775" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf left0002" x="2162" y="3931" width="1143" height="1581" frameX="-518" frameY="-812" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf right0000" x="0" y="2238" width="1110" height="1693" frameX="-681" frameY="-699" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf right0001" x="3129" y="2238" width="1099" height="1661" frameX="-728" frameY="-731" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf right0002" x="1101" y="3931" width="1061" height="1614" frameX="-784" frameY="-779" frameWidth="2423" frameHeight="2914" />
+<SubTexture name="bluey fnaf down0000" x="3478" y="0" width="1057" height="1718" frameX="-642" frameY="-436" frameWidth="2423" frameHeight="2414" />
+<SubTexture name="bluey fnaf down0001" x="3305" y="3931" width="1318" height="1465" frameX="-558" frameY="-690" frameWidth="2423" frameHeight="2414" />
+<SubTexture name="bluey fnaf down0002" x="4623" y="3931" width="1694" height="1097" frameX="-380" frameY="-1058" frameWidth="2423" frameHeight="2414" />
+</TextureAtlas>

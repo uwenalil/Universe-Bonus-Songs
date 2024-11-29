@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				23,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf heeler left"
+		},
+		{
+			"offsets": [
+				24,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf heeler right"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf heeler down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf heeler up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "idle",
+			"loop": false,
+			"name": "bf heeler idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_heeler",
+	"position": [
+		-90,
+		250
+	],
+	"healthicon": "bf-heeler",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		165,
+		235
+	],
+	"camera_position": [
+		70,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

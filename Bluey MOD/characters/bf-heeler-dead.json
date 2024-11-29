@@ -1,0 +1,82 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "bf heeler loop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				1
+			],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "bf heeler die"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "bf heeler retry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_heeler_death",
+	"position": [
+		-90,
+		250
+	],
+	"healthicon": "bf-heeler",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		165,
+		235
+	],
+	"camera_position": [
+		50,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
