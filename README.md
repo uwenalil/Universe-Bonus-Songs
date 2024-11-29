@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/VideoBotYT/Universe-Engine"><img src="assets/exclude/images/universe.png" alt="universe" width="150"></a>
+  <a href="https://github.com/uwenalil/Universe-Bonus-Songs"><img src="universe.png" alt="universe" width="150"></a>
   <br>
   <b>Universe Engine</b>
   <br>
