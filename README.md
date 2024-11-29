@@ -6,12 +6,13 @@
   <br>
 </h1>
 <h3 align="center">
-  <b>they have modchart :o.</b>
+  <b>
+    they have modchart :o.
+    https://github.com/VideoBotYT/Universe-Engine
+  </b>
 </h3>
 <h4 align="center">
   took inspo from JS Engine.
-
-  https://github.com/VideoBotYT/Universe-Engine
 </h4>
 
 # ay mate!
