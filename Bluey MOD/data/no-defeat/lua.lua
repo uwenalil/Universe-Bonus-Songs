@@ -55,12 +55,20 @@ function onCreatePost()
     setProperty('timeTxt.visible', false)
     setTextFont('scoreTxt', 'funkin.ttf')
     setObjectCamera('timeTxt', 'other')
-    setObjectCamera('timeBar', 'other') 
+    setObjectCamera('timeBar', 'other')
+
+    if universeEngine then
+        modchart()
+    end
 end
 
 function onStepHit()
-    if curStep == 272 then
+    if ((curStep == 272) or (curStep == 1696)) then
         cameraFlash("other", "FFFFFF", 1, true)
+    end
+
+    if curStep == 1696 then
+        middleModifier(1, 2)
     end
 
     coolThing()
@@ -81,11 +89,11 @@ function onBeatHit()
     if ((curBeat >= 68 and curBeat < 164) or (curBeat >= 196 and curBeat < 260)) then
         if curBeat % 4 == 0 then
             triggerEvent("Add Camera Zoom", "0.030", "0.075")
-            camAngle(valang, durang)
+            -- camAngle(valang, durang)
         end
 
         if curBeat % 8 == 0 then
-            camAngle(-valang, durang)
+            -- camAngle(-valang, durang)
         end
 
         if curBeat % 2 == 0 then
@@ -217,7 +225,7 @@ function onBeatHit()
         setProperty('lightbottom3.visible', false)
         setProperty('lightbottom4.visible', false)
 
-        reverseModifier(1)
+        -- reverseModifier(1)
     end
 
     if curBeat == 360 then
@@ -232,7 +240,7 @@ function onBeatHit()
         setProperty('lightbottom3.visible', true)
         setProperty('lightbottom4.visible', true)
 
-        reverseModifier(2)
+        -- reverseModifier(2)
     end
 end
 
@@ -330,6 +338,26 @@ function onUpdate(elapsed)
                     round(rating * 100, 2) .. "%) - " .. getProperty("ratingFC"))
         end
     end
+
+    -- cool camhud shit lmao
+    if ((curStep >= 272 and curStep < 656) or (curStep >= 784 and curStep < 1040)) then
+        setProperty("camHUD.angle", continuous_sin(curDecStep / 16) * 5)
+        if ((curStep == 656) or (curStep == 1040)) then
+            setProperty("camHUD.angle", 0)
+        end
+    end
+    if ((curStep >= 1168 and curStep < 1424) or (curStep >= 1696 and curStep < 1952)) then
+        setProperty("camHUD.angle", continuous_sin(curDecStep / 16) * 5)
+        setProperty("camHUD.x", continuous_sin(curDecStep / 16) * 50)
+        if curStep == 1424 then
+            setProperty('camHUD.angle', 0)
+            setProperty('camHUD.x', 0)
+        end
+        if curStep == 1952 then
+            doTweenX("camHudReturn X", "camHUD", 0, 4, "expoOut")
+            doTweenX("camHudReturn ANG", "camHUD", 0, 4, "expoOut")
+        end
+    end
 end
 
 -- custom funcs
@@ -408,7 +436,7 @@ function credicetextshoot()
     setTextFont("credice uwenalil", font)
     setProperty("credice uwenalil.alpha", 0)
     setTextAlignment("credice uwenalil", "left")
-    setTextString("credice uwenalil", "uwenalil\nCoding, Events (not the built in editor), Charting, Stage")
+    setTextString("credice uwenalil", "uwenalil\nCoding, Events, Charting, Stage")
     screenCenter("credice uwenalil")
     setProperty('credice uwenalil.x', getProperty('credice.x') + 80)
     setProperty('credice uwenalil.y', getProperty('credice.y') + 80)
@@ -444,7 +472,7 @@ function credicetextshoot()
     setTextFont("credice Ammar", font)
     setProperty("credice Ammar.alpha", 0)
     setTextAlignment("credice Ammar", "left")
-    setTextString("credice Ammar", "An Ammar\nDefeat Mix, Particle Script")
+    setTextString("credice Ammar", "An Ammar\nDefeat Mix, Particle Script, CamHUD moving")
     screenCenter("credice Ammar")
     setProperty('credice Ammar.x', getProperty('credice.x') + 80)
     setProperty('credice Ammar.y', getProperty('credice.y') + 80 + spacing + spacing + spacing)
@@ -1542,7 +1570,7 @@ end
 local angBeat = true
 local yBeat = true
 local xBeat = true
-local directionBeat = true
+local directionBeat = false
 function activateBothNotesEvent(v1, v2, v3, v4)
     -- v1 = duration
     if angBeat then
@@ -1645,9 +1673,7 @@ function reverseModifier(v1)
         setPropertyFromGroup("playerStrums", 1, "direction", reverseModDirection)
         setPropertyFromGroup("playerStrums", 2, "direction", reverseModDirection)
         setPropertyFromGroup("playerStrums", 3, "direction", reverseModDirection)
-    end
-
-    if v1 == 2 then
+    elseif v1 == 2 then
         reverseModY = 570
         if not downscroll then
             reverseModY = 50
@@ -1674,4 +1700,46 @@ function reverseModifier(v1)
         setPropertyFromGroup("playerStrums", 2, "direction", reverseModDirection)
         setPropertyFromGroup("playerStrums", 3, "direction", reverseModDirection)
     end
+end
+
+-- middle scroll
+function middleModifier(v1, v2)
+    if v1 == 1 then
+        if xBeat == true then
+            xBeat = false
+        end
+        noteTweenAlpha('note movement1', 0, 0, v2, 'cubeInOut')
+        noteTweenAlpha('note movement2', 1, 0, v2, 'cubeInOut')
+        noteTweenAlpha('note movement3', 2, 0, v2, 'cubeInOut')
+        noteTweenAlpha('note movement4', 3, 0, v2, 'cubeInOut')
+        noteTweenX('note movement5', 4, 412, v2, 'cubeInOut')
+        noteTweenX('note movement6', 5, 524, v2, 'cubeInOut')
+        noteTweenX('note movement7', 6, 636, v2, 'cubeInOut')
+        noteTweenX('note movement8', 7, 748, v2, 'cubeInOut')
+        noteTweenX('note movement9', 0, 412, v2, 'cubeInOut')
+        noteTweenX('note movement10', 1, 524, v2, 'cubeInOut')
+        noteTweenX('note movement11', 2, 636, v2, 'cubeInOut')
+        noteTweenX('note movement12', 3, 748, v2, 'cubeInOut')
+    elseif v1 == 2 then
+        if xBeat == false and v1 == 1 then
+            xBeat = true
+        end
+        noteTweenAlpha('note movement1', 0, 1, v2, 'cubeInOut')
+        noteTweenAlpha('note movement2', 1, 1, v2, 'cubeInOut')
+        noteTweenAlpha('note movement3', 2, 1, v2, 'cubeInOut')
+        noteTweenAlpha('note movement4', 3, 1, v2, 'cubeInOut')
+        noteTweenX('note movement5', 4, 732, v2, 'cubeInOut')
+        noteTweenX('note movement6', 5, 844, v2, 'cubeInOut')
+        noteTweenX('note movement7', 6, 956, v2, 'cubeInOut')
+        noteTweenX('note movement8', 7, 1068, v2, 'cubeInOut')
+        noteTweenX('note movement9', 0, 92, v2, 'cubeInOut')
+        noteTweenX('note movement10', 1, 204, v2, 'cubeInOut')
+        noteTweenX('note movement11', 2, 316, v2, 'cubeInOut')
+        noteTweenX('note movement12', 3, 428, v2, 'cubeInOut')
+    end
+end
+
+-- amart
+function continuous_sin(x)
+    return math.sin((x % 1) * 2 * math.pi)
 end
