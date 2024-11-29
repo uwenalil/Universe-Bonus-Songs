@@ -26,6 +26,6 @@ IF YOU DO POST THIS ON YOUTUBE OR SOMEWHERE, PLEASE CREDIT ME AND THE ORIGINAL M
 
 how to download?
 
-Code Green Button on the top of the page, then click "Download ZIP"
+"<> Code" Green Button on the top of the page, then click "Download ZIP"
 
 then you're done!
