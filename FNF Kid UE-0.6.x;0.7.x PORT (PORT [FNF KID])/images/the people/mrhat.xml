@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgKID.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hat guy istanza 10000" x="2" y="2" width="280" height="318" frameX="0" frameY="-7" frameWidth="281" frameHeight="325"/>
+	<SubTexture name="hat guy istanza 10001" x="342" y="2" width="269" height="323" frameX="-10" frameY="-1" frameWidth="281" frameHeight="325"/>
+	<SubTexture name="hat guy istanza 10002" x="671" y="2" width="267" height="323" frameX="-14" frameY="0" frameWidth="281" frameHeight="325"/>
+</TextureAtlas>

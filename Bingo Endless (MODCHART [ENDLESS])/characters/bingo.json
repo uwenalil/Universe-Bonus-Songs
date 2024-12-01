@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				90
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "bingo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				90
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "bingo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				90
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "bingo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				90
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "bingo right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "danceRight",
+			"fps": 16,
+			"name": "bingo danceright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 16,
+			"name": "bingo danceleft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bingo",
+	"position": [
+		-1340,
+		-690
+	],
+	"healthicon": "bingo",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		177,
+		110
+	],
+	"camera_position": [
+		1040,
+		1030
+	],
+	"sing_duration": 4,
+	"scale": 0.21
+}

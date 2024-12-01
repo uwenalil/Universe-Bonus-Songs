@@ -1,0 +1,12 @@
+bingo_idle0 = 0 0 512 512
+bingo_idle1 = 512 0 512 512
+bingo_idle2 = 1024 0 512 512
+bingo_idle3 = 1536 0 512 512
+bingo_up0 = 0 512 512 512
+bingo_up1 = 512 512 512 512
+bingo_down0 = 1024 512 512 512
+bingo_down1 = 1536 512 512 512
+bingo_left0 = 0 1024 512 512
+bingo_left1 = 512 1024 512 512
+bingo_right0 = 1024 1024 512 512
+bingo_right1 = 1536 1024 512 512

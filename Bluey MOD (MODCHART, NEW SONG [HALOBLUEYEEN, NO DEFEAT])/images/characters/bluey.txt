@@ -1,0 +1,16 @@
+bluey_idle0 = 0 0 512 512
+bluey_idle1 = 512 0 512 512
+bluey_idle2 = 1024 0 512 512
+bluey_idle3 = 1536 0 512 512
+bluey_idle4 = 0 512 512 512
+bluey_idle5 = 512 512 512 512
+bluey_idle6 = 1024 512 512 512
+bluey_idle7 = 1536 512 512 512
+bluey_up0 = 0 1024 512 512
+bluey_up1 = 512 1024 512 512
+bluey_down0 = 1024 1024 512 512
+bluey_down1 = 1536 1024 512 512
+bluey_left0 = 0 1536 512 512
+bluey_left1 = 512 1536 512 512
+bluey_right0 = 1024 1536 512 512
+bluey_right1 = 1536 1536 512 512

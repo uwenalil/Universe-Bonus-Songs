@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="timmy.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hey istanza 10000" x="830" y="42" width="346" height="317" frameX="0" frameY="0" frameWidth="360" frameHeight="317"/>
+	<SubTexture name="Hey istanza 10001" x="830" y="42" width="346" height="317" frameX="0" frameY="0" frameWidth="360" frameHeight="317"/>
+	<SubTexture name="Hey istanza 10002" x="42" y="42" width="354" height="313" frameX="-5" frameY="-4" frameWidth="360" frameHeight="317"/>
+	<SubTexture name="Hey istanza 10003" x="42" y="42" width="354" height="313" frameX="-5" frameY="-4" frameWidth="360" frameHeight="317"/>
+	<SubTexture name="Hey istanza 10004" x="436" y="42" width="354" height="313" frameX="-6" frameY="-4" frameWidth="360" frameHeight="317"/>
+	<SubTexture name="Hey istanza 10005" x="436" y="42" width="354" height="313" frameX="-6" frameY="-4" frameWidth="360" frameHeight="317"/>
+	<SubTexture name="cry istanza 10000" x="3082" y="416" width="300" height="301" frameX="-19" frameY="-34" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10001" x="3082" y="416" width="300" height="301" frameX="-19" frameY="-34" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10002" x="3082" y="416" width="300" height="301" frameX="-19" frameY="-34" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10003" x="2728" y="401" width="314" height="296" frameX="-39" frameY="-37" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10004" x="2728" y="401" width="314" height="296" frameX="-39" frameY="-37" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10005" x="2728" y="401" width="314" height="296" frameX="-39" frameY="-37" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10006" x="1897" y="399" width="302" height="322" frameX="0" frameY="-12" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10007" x="1897" y="399" width="302" height="322" frameX="0" frameY="-12" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10008" x="1897" y="399" width="302" height="322" frameX="0" frameY="-12" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10009" x="3093" y="42" width="308" height="334" frameX="-1" frameY="0" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10010" x="3093" y="42" width="308" height="334" frameX="-1" frameY="0" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10011" x="3093" y="42" width="308" height="334" frameX="-1" frameY="0" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10012" x="2239" y="402" width="304" height="303" frameX="-18" frameY="-32" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10013" x="2239" y="402" width="304" height="303" frameX="-18" frameY="-32" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10014" x="2239" y="402" width="304" height="303" frameX="-18" frameY="-32" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10015" x="3422" y="692" width="300" height="294" frameX="-25" frameY="-41" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10016" x="3422" y="692" width="300" height="294" frameX="-25" frameY="-41" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10017" x="3422" y="692" width="300" height="294" frameX="-25" frameY="-41" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10018" x="726" y="739" width="295" height="295" frameX="-21" frameY="-40" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10019" x="726" y="739" width="295" height="295" frameX="-21" frameY="-40" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cry istanza 10020" x="726" y="739" width="295" height="295" frameX="-21" frameY="-40" frameWidth="353" frameHeight="335"/>
+	<SubTexture name="cryloop istanza 10000" x="2239" y="745" width="296" height="294" frameX="0" frameY="0" frameWidth="297" frameHeight="295"/>
+	<SubTexture name="cryloop istanza 10001" x="389" y="736" width="297" height="295"/>
+	<SubTexture name="downANIM istanza 10000" x="1061" y="753" width="341" height="251" frameX="0" frameY="-12" frameWidth="342" frameHeight="263"/>
+	<SubTexture name="downANIM istanza 10001" x="1061" y="753" width="341" height="251" frameX="0" frameY="-12" frameWidth="342" frameHeight="263"/>
+	<SubTexture name="downANIM istanza 10002" x="2954" y="757" width="330" height="259" frameX="-10" frameY="-4" frameWidth="342" frameHeight="263"/>
+	<SubTexture name="downANIM istanza 10003" x="2954" y="757" width="330" height="259" frameX="-10" frameY="-4" frameWidth="342" frameHeight="263"/>
+	<SubTexture name="downANIM istanza 10004" x="2583" y="737" width="331" height="263" frameX="-11" frameY="0" frameWidth="342" frameHeight="263"/>
+	<SubTexture name="downANIM istanza 10005" x="2583" y="737" width="331" height="263" frameX="-11" frameY="0" frameWidth="342" frameHeight="263"/>
+	<SubTexture name="idle istanza 10000" x="3441" y="376" width="364" height="276" frameX="0" frameY="-24" frameWidth="364" frameHeight="301"/>
+	<SubTexture name="idle istanza 10001" x="3441" y="376" width="364" height="276" frameX="0" frameY="-24" frameWidth="364" frameHeight="301"/>
+	<SubTexture name="idle istanza 10002" x="3441" y="376" width="364" height="276" frameX="0" frameY="-24" frameWidth="364" frameHeight="301"/>
+	<SubTexture name="idle istanza 10003" x="3441" y="42" width="343" height="294" frameX="-7" frameY="-7" frameWidth="364" frameHeight="301"/>
+	<SubTexture name="idle istanza 10004" x="3441" y="42" width="343" height="294" frameX="-7" frameY="-7" frameWidth="364" frameHeight="301"/>
+	<SubTexture name="idle istanza 10005" x="3441" y="42" width="343" height="294" frameX="-7" frameY="-7" frameWidth="364" frameHeight="301"/>
+	<SubTexture name="idle istanza 10006" x="757" y="399" width="329" height="300" frameX="-10" frameY="-1" frameWidth="364" frameHeight="301"/>
+	<SubTexture name="idle istanza 10007" x="757" y="399" width="329" height="300" frameX="-10" frameY="-1" frameWidth="364" frameHeight="301"/>
+	<SubTexture name="idle istanza 10008" x="757" y="399" width="329" height="300" frameX="-10" frameY="-1" frameWidth="364" frameHeight="301"/>
+	<SubTexture name="idle istanza 10009" x="389" y="395" width="328" height="301" frameX="-9" frameY="0" frameWidth="364" frameHeight="301"/>
+	<SubTexture name="idle istanza 10010" x="389" y="395" width="328" height="301" frameX="-9" frameY="0" frameWidth="364" frameHeight="301"/>
+	<SubTexture name="idle istanza 10011" x="389" y="395" width="328" height="301" frameX="-9" frameY="0" frameWidth="364" frameHeight="301"/>
+	<SubTexture name="left istanza 10000" x="1216" y="42" width="352" height="310"/>
+	<SubTexture name="left istanza 10001" x="1216" y="42" width="352" height="310"/>
+	<SubTexture name="left istanza 10002" x="1608" y="42" width="348" height="310" frameX="-3" frameY="0" frameWidth="352" frameHeight="310"/>
+	<SubTexture name="left istanza 10003" x="1608" y="42" width="348" height="310" frameX="-3" frameY="0" frameWidth="352" frameHeight="310"/>
+	<SubTexture name="left istanza 10004" x="1608" y="42" width="348" height="310" frameX="-3" frameY="0" frameWidth="352" frameHeight="310"/>
+	<SubTexture name="left istanza 10005" x="1608" y="42" width="348" height="310" frameX="-3" frameY="0" frameWidth="352" frameHeight="310"/>
+	<SubTexture name="right istanza 10000" x="1996" y="42" width="328" height="317" frameX="-10" frameY="-3" frameWidth="338" frameHeight="320"/>
+	<SubTexture name="right istanza 10001" x="1996" y="42" width="328" height="317" frameX="-10" frameY="-3" frameWidth="338" frameHeight="320"/>
+	<SubTexture name="right istanza 10002" x="2728" y="42" width="325" height="319" frameX="-1" frameY="-1" frameWidth="338" frameHeight="320"/>
+	<SubTexture name="right istanza 10003" x="2728" y="42" width="325" height="319" frameX="-1" frameY="-1" frameWidth="338" frameHeight="320"/>
+	<SubTexture name="right istanza 10004" x="2364" y="42" width="324" height="320" frameX="0" frameY="0" frameWidth="338" frameHeight="320"/>
+	<SubTexture name="right istanza 10005" x="2364" y="42" width="324" height="320" frameX="0" frameY="0" frameWidth="338" frameHeight="320"/>
+	<SubTexture name="up istanza 10000" x="1566" y="392" width="291" height="341" frameX="-7" frameY="0" frameWidth="310" frameHeight="341"/>
+	<SubTexture name="up istanza 10001" x="1566" y="392" width="291" height="341" frameX="-7" frameY="0" frameWidth="310" frameHeight="341"/>
+	<SubTexture name="up istanza 10002" x="1216" y="392" width="310" height="321" frameX="0" frameY="-20" frameWidth="310" frameHeight="341"/>
+	<SubTexture name="up istanza 10003" x="1216" y="392" width="310" height="321" frameX="0" frameY="-20" frameWidth="310" frameHeight="341"/>
+	<SubTexture name="up istanza 10004" x="42" y="395" width="307" height="322" frameX="-1" frameY="-19" frameWidth="310" frameHeight="341"/>
+	<SubTexture name="up istanza 10005" x="42" y="395" width="307" height="322" frameX="-1" frameY="-19" frameWidth="310" frameHeight="341"/>
+</TextureAtlas>

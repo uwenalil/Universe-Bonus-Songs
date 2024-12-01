@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "bluey fnaf idle"
+		},
+		{
+			"offsets": [
+				-2,
+				-99
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "bluey fnaf down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "bluey fnaf up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "bluey fnaf left",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "bluey fnaf right",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fnabluey",
+	"position": [
+		-1250,
+		-950
+	],
+	"healthicon": "fnaf",
+	"flip_x": true,
+	"healthbar_colors": [
+		141,
+		201,
+		255
+	],
+	"camera_position": [
+		-610,
+		410
+	],
+	"sing_duration": 4.50000000000001,
+	"scale": 0.6
+}

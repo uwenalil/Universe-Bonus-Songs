@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bluey.exe.png"><SubTexture name="exebluey down0000" x="4822" y="5476" width="1533" height="1713" frameX="-492" frameY="-775" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey down0001" x="1828" y="3689" width="1458" height="1777" frameX="-501" frameY="-711" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey down0002" x="2814" y="0" width="1418" height="1804" frameX="-501" frameY="-683" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey idle0000" x="0" y="1885" width="1418" height="1804" frameX="-501" frameY="-683" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey idle0001" x="4232" y="1804" width="1454" height="1779" frameX="-498" frameY="-709" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey idle0002" x="5829" y="0" width="1473" height="1756" frameX="-504" frameY="-732" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey idle0003" x="3320" y="5476" width="1502" height="1734" frameX="-510" frameY="-754" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey idle0004" x="4232" y="1804" width="1454" height="1779" frameX="-498" frameY="-709" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey idle0005" x="5829" y="0" width="1473" height="1756" frameX="-504" frameY="-732" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey idle0006" x="0" y="1885" width="1418" height="1804" frameX="-501" frameY="-683" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey up0000" x="0" y="0" width="1407" height="1885" frameX="-484" frameY="-603" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey up0001" x="1407" y="0" width="1407" height="1834" frameX="-500" frameY="-654" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey up0002" x="1418" y="1885" width="1418" height="1804" frameX="-501" frameY="-683" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey left0000" x="1799" y="5476" width="1521" height="1738" frameX="-420" frameY="-751" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey left0001" x="3286" y="3689" width="1566" height="1761" frameX="-472" frameY="-727" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey left0002" x="4232" y="0" width="1597" height="1804" frameX="-501" frameY="-683" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey right0000" x="0" y="3689" width="1828" height="1787" frameX="-506" frameY="-700" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey right0001" x="0" y="5476" width="1799" height="1745" frameX="-615" frameY="-742" frameWidth="2666" frameHeight="2648" />
+<SubTexture name="exebluey right0002" x="7302" y="0" width="1774" height="1706" frameX="-724" frameY="-782" frameWidth="2666" frameHeight="2648" />
+</TextureAtlas>

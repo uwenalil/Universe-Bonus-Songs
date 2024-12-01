@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfdoggy.png"><SubTexture name="bfdoggy down note0000" x="1200" y="4323" width="1108" height="1344" frameX="-305" frameY="-256" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy down note0001" x="6306" y="2612" width="1143" height="1292" frameX="-264" frameY="-307" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy down note0002" x="6306" y="3904" width="1255" height="1247" frameX="-193" frameY="-352" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy missed down0000" x="1200" y="4323" width="1108" height="1344" frameX="-305" frameY="-256" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy missed down0001" x="2308" y="4323" width="1136" height="1344" frameX="-288" frameY="-256" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy missed down0002" x="6306" y="1316" width="1152" height="1296" frameX="-256" frameY="-304" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy dance idle0000" x="0" y="2923" width="1032" height="1400" frameX="-384" frameY="-192" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy dance idle0001" x="1994" y="2923" width="1048" height="1383" frameX="-384" frameY="-209" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy dance idle0002" x="5218" y="0" width="1088" height="1366" frameX="-376" frameY="-225" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy dance idle0003" x="4723" y="4323" width="1148" height="1336" frameX="-346" frameY="-256" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy dance idle0004" x="5218" y="0" width="1088" height="1366" frameX="-376" frameY="-225" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy dance idle0005" x="1994" y="2923" width="1048" height="1383" frameX="-384" frameY="-209" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy dance idle0006" x="0" y="2923" width="1032" height="1400" frameX="-384" frameY="-192" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy left0000" x="0" y="4323" width="1200" height="1358" frameX="-256" frameY="-234" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy left0001" x="6306" y="0" width="1272" height="1316" frameX="-176" frameY="-276" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy left0002" x="0" y="5681" width="1280" height="1279" frameX="-112" frameY="-313" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy left miss0000" x="0" y="4323" width="1200" height="1358" frameX="-256" frameY="-234" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy left miss0001" x="3042" y="2923" width="1200" height="1376" frameX="-256" frameY="-224" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy left miss0002" x="3444" y="4323" width="1279" height="1344" frameX="-176" frameY="-256" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy righty0000" x="1032" y="2923" width="962" height="1391" frameX="-535" frameY="-200" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy righty0001" x="5218" y="1366" width="956" height="1359" frameX="-552" frameY="-233" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy righty0002" x="5218" y="2725" width="954" height="1335" frameX="-560" frameY="-257" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy righty oops0000" x="1032" y="2923" width="962" height="1391" frameX="-535" frameY="-200" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy righty oops0001" x="4163" y="1415" width="976" height="1408" frameX="-528" frameY="-192" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy righty oops0002" x="4242" y="2923" width="964" height="1376" frameX="-544" frameY="-224" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy up note0000" x="967" y="0" width="1156" height="1455" frameX="-336" frameY="-136" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy up note0001" x="1111" y="1473" width="1098" height="1432" frameX="-382" frameY="-160" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy up note0002" x="4163" y="0" width="1055" height="1415" frameX="-425" frameY="-177" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy up miss0000" x="967" y="0" width="1156" height="1455" frameX="-336" frameY="-136" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy up miss0001" x="0" y="1473" width="1111" height="1450" frameX="-377" frameY="-148" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy up miss0002" x="3091" y="0" width="1072" height="1423" frameX="-416" frameY="-175" frameWidth="1777" frameHeight="1770" />
+<SubTexture name="bfdoggy peacin' out0000" x="3091" y="1423" width="968" height="1422" frameX="-767" frameY="-673" frameWidth="2423" frameHeight="2414" />
+<SubTexture name="bfdoggy peacin' out0001" x="2123" y="0" width="968" height="1451" frameX="-783" frameY="-649" frameWidth="2423" frameHeight="2414" />
+<SubTexture name="bfdoggy peacin' out0002" x="0" y="0" width="967" height="1473" frameX="-814" frameY="-622" frameWidth="2423" frameHeight="2414" />
+</TextureAtlas>

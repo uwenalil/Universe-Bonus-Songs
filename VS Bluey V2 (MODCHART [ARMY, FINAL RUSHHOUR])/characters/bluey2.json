@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "danceLeft",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "bluey2"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "danceRight",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "bluey2"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bluey2",
+	"position": [
+		-800,
+		-540
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		10,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

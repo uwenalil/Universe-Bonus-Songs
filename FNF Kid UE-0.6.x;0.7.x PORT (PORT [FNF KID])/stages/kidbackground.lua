@@ -1,0 +1,28 @@
+function onCreatePost()
+    setProperty("boyfriend.y", getProperty("boyfriend.y") - 130)
+    setProperty("boyfriend.x", getProperty("boyfriend.x") - 130)
+    setProperty("dad.y", getProperty("dad.y") - 130)
+    setProperty("dad.x", getProperty("dad.x") - 130)
+
+    makeLuaSprite("white", nil, 0, 0)
+    makeGraphic("white", 2000, 2000, "FFFFFF")
+    screenCenter("white")
+    setProperty("white.x", getProperty("white.x"))
+    setProperty("white.y", getProperty("white.y"))
+    setScrollFactor("white", 1, 1)
+    addLuaSprite("white")
+    
+    makeLuaSprite("map", "map")
+    scaleObject("map", 1.7, 1.7)
+    screenCenter("map")
+    setProperty("map.y", getProperty("map.y") + 100)
+    setProperty("map.x", getProperty("map.x") + 160)
+    setScrollFactor("map", 1, 1)
+    addLuaSprite("map")
+
+    makeAnimatedLuaSprite("car", "carcarvroomohnokaboomcrashcrashdeadohno", 0, -200)
+    addAnimationByPrefix("car", "vroom", "vroom vroom istanza 1")
+    scaleObject("car", 1.7, 1.7)
+    setScrollFactor("car", 1, 1)
+    addLuaSprite("car")
+end

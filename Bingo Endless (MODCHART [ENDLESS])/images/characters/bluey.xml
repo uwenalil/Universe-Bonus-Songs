@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bluey.png">
+<SubTexture name="bluey idle0000" x="2022" y="586" width="410" height="584" frameX="-119" frameY="-80" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey idle0001" x="382" y="1280" width="431" height="603" frameX="-108" frameY="-61" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey idle0002" x="757" y="0" width="447" height="640" frameX="-98" frameY="-47" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey idle0003" x="412" y="653" width="455" height="625" frameX="-93" frameY="-39" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey down0000" x="2449" y="0" width="432" height="567" frameX="-177" frameY="-125" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey down0001" x="2022" y="0" width="427" height="586" frameX="-177" frameY="-106" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey down0002" x="813" y="1280" width="433" height="603" frameX="-165" frameY="-89" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey right0000" x="1246" y="1280" width="414" height="593" frameX="-129" frameY="-101" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey right0001" x="0" y="1280" width="382" height="609" frameX="-131" frameY="-86" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey right0002" x="1619" y="0" width="403" height="619" frameX="-94" frameY="-76" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey left0000" x="1619" y="619" width="389" height="616" frameX="-140" frameY="-46" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey left0001" x="867" y="653" width="399" height="621" frameX="-153" frameY="-41" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey left0002" x="0" y="653" width="412" height="627" frameX="-153" frameY="-35" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey up0000" x="0" y="0" width="365" height="653" frameX="-200" frameY="-52" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey up0001" x="365" y="0" width="392" height="644" frameX="-176" frameY="-62" frameWidth="693" frameHeight="796" />
+<SubTexture name="bluey up0002" x="1204" y="0" width="415" height="633" frameX="-155" frameY="-71" frameWidth="693" frameHeight="796" />
+</TextureAtlas>

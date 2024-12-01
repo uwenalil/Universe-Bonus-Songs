@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-59, 19],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [14, 9],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-32, -43],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "downANIM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-21, 45],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-7, -1],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle istanza",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-13, 17],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Hey istanza",
+			"indices": []
+		},
+		{
+			"offsets": [-50, -8],
+			"loop": true,
+			"fps": 6,
+			"anim": "cryloop",
+			"indices": [],
+			"name": "cryloop istanza"
+		},
+		{
+			"offsets": [-27, 37],
+			"loop": false,
+			"fps": 16,
+			"anim": "cry",
+			"indices": [],
+			"name": "cry istanza"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/timmy",
+	"position": [0, 420],
+	"healthicon": "timmy icons",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [10, -30],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": true
+}

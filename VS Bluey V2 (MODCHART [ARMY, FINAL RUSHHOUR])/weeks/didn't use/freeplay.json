@@ -1,0 +1,77 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekbin",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"army",
+			"rusty",
+			[
+				235,
+				95,
+				75
+			]
+		],
+		[
+			"Hogging",
+			"muffin",
+			[
+				215,
+				215,
+				215
+			]
+		],
+		[
+			"introduction",
+			"bb",
+			[
+				188,
+				230,
+				255
+			]
+		],
+		[
+			"blue sky",
+			"bluey",
+			[
+				115,
+				215,
+				255
+			]
+		],
+		[
+			"fazbluey",
+			"fnaf",
+			[
+				0,
+				35,
+				75
+			]
+		],
+		[
+			"endless hate",
+			"exe",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

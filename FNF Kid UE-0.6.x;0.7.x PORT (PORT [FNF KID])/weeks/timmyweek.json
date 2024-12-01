@@ -1,0 +1,27 @@
+{
+	"storyName": "timothy",
+	"difficulties": "Brainrot",
+	"hideFreeplay": false,
+	"weekBackground": "timmyweekbg",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"FNF Kid",
+			"timmy icons",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekName": "timmyweek",
+	"hiddenUntilUnlocked": false
+}

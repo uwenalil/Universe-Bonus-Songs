@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="socks.png">
+	<!-- Created with Nothing Bud-->
+<SubTexture name="socks down0000" x="1899" y="5145" width="1979" height="1538" frameX="-566" frameY="-1449" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks down0001" x="6720" y="0" width="1870" height="1580" frameX="-609" frameY="-1407" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks down0002" x="3206" y="0" width="1757" height="1672" frameX="-656" frameY="-1314" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks idle0000" x="3878" y="5145" width="1992" height="1472" frameX="-550" frameY="-1515" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks idle0001" x="0" y="5145" width="1899" height="1541" frameX="-595" frameY="-1446" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks idle0002" x="1765" y="3497" width="1819" height="1609" frameX="-627" frameY="-1377" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks idle0003" x="0" y="1825" width="1757" height="1672" frameX="-656" frameY="-1314" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks left0000" x="3584" y="3497" width="1771" height="1605" frameX="-623" frameY="-1382" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks left0001" x="0" y="3497" width="1765" height="1648" frameX="-639" frameY="-1339" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks left0002" x="1757" y="1825" width="1757" height="1672" frameX="-656" frameY="-1314" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks right0000" x="6720" y="1580" width="1758" height="1567" frameX="-689" frameY="-1420" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks right0001" x="4963" y="1672" width="1754" height="1637" frameX="-674" frameY="-1350" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks right0002" x="4963" y="0" width="1757" height="1672" frameX="-656" frameY="-1314" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks up0000" x="0" y="0" width="1541" height="1825" frameX="-747" frameY="-1162" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks up0001" x="1541" y="0" width="1665" height="1732" frameX="-695" frameY="-1254" frameWidth="3136" frameHeight="3088" />
+<SubTexture name="socks up0002" x="1757" y="1825" width="1757" height="1672" frameX="-656" frameY="-1314" frameWidth="3136" frameHeight="3088" />
+</TextureAtlas>

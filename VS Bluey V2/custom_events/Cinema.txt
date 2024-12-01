@@ -1,1 +1,0 @@
-Use the event to turn on/off cinema.

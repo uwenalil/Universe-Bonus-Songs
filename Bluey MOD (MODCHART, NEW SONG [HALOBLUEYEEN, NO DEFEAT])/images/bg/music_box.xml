@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="music_box.png">
+	<SubTexture name="music box beat0000" x="0" y="0" width="512" height="380"/>
+	<SubTexture name="music box beat0001" x="512" y="0" width="512" height="380"/>
+	<SubTexture name="music box beat0002" x="0" y="380" width="512" height="380"/>
+	<SubTexture name="music box beat0003" x="512" y="380" width="512" height="380"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgKID.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="annoyer istanza 10000" x="2" y="2" width="245" height="539" frameX="-3" frameY="-10" frameWidth="248" frameHeight="549"/>
+	<SubTexture name="annoyer istanza 10001" x="307" y="2" width="235" height="545" frameX="0" frameY="-4" frameWidth="248" frameHeight="549"/>
+	<SubTexture name="annoyer istanza 10002" x="602" y="2" width="233" height="549" frameX="0" frameY="0" frameWidth="248" frameHeight="549"/>
+	<SubTexture name="annoyer istanza 10003" x="895" y="2" width="233" height="549" frameX="0" frameY="0" frameWidth="248" frameHeight="549"/>
+</TextureAtlas>

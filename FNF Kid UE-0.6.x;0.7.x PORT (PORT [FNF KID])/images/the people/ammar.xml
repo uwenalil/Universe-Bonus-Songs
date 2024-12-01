@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ammar.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ammar idle 10000" x="517" y="2" width="94" height="184" frameX="0" frameY="-7" frameWidth="94" frameHeight="191"/>
+	<SubTexture name="ammar idle 10001" x="671" y="2" width="92" height="188" frameX="-1" frameY="-3" frameWidth="94" frameHeight="191"/>
+	<SubTexture name="ammar idle 10002" x="973" y="2" width="90" height="190" frameX="-2" frameY="-1" frameWidth="94" frameHeight="191"/>
+	<SubTexture name="ammar idle 10003" x="823" y="2" width="90" height="191" frameX="-2" frameY="0" frameWidth="94" frameHeight="191"/>
+	<SubTexture name="ammar 10000" x="2" y="2" width="122" height="188" frameX="0" frameY="-2" frameWidth="122" frameHeight="200"/>
+	<SubTexture name="ammar 10001" x="184" y="2" width="120" height="188" frameX="-2" frameY="0" frameWidth="122" frameHeight="200"/>
+	<SubTexture name="ammar 10002" x="364" y="2" width="93" height="191" frameX="-16" frameY="-9" frameWidth="122" frameHeight="200"/>
+	<SubTexture name="ammar 10003" x="1123" y="2" width="89" height="190" frameX="-19" frameY="-10" frameWidth="122" frameHeight="200"/>
+</TextureAtlas>

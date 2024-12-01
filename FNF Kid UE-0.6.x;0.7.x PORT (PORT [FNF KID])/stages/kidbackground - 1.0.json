@@ -1,0 +1,156 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "gf",
+		"dad": "timmy"
+	},
+	"preload": {
+		"images/stage_light": 2,
+		"images/stagecurtains": 2,
+		"images/stagefront": 3,
+		"images/stageback": 3
+	},
+	"girlfriend": [
+		2218,
+		-492
+	],
+	"stageUI": "",
+	"boyfriend": [
+		914,
+		61
+	],
+	"defaultZoom": 0.85,
+	"objects": [
+		{
+			"x": -690,
+			"blend": "normal",
+			"y": -305,
+			"scale": [
+				1.75,
+				2.2
+			],
+			"image": "background",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -792,
+			"blend": "normal",
+			"y": -44,
+			"scale": [
+				1.7,
+				1.7
+			],
+			"image": "map",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1312,
+			"blend": "normal",
+			"y": -11,
+			"scale": [
+				1.5,
+				1.5
+			],
+			"image": "carcarvroomohnokaboomcrashcrashdeadohno",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "car",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 15,
+					"anim": "idle",
+					"indices": [],
+					"name": "vroom vroom istanza"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -138,
+			"blend": "add",
+			"y": 25,
+			"scale": [
+				1,
+				3.85
+			],
+			"image": "blend",
+			"flipX": false,
+			"filters": 1,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite4",
+			"antialiasing": true,
+			"flipY": true,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"camera_speed": 0.7,
+	"directory": "week1",
+	"opponent": [
+		282,
+		97
+	],
+	"camera_opponent": [
+		0,
+		0
+	],
+	"hide_girlfriend": true
+}

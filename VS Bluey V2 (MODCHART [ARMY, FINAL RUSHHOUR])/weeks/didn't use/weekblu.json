@@ -1,0 +1,50 @@
+{
+	"storyName": "lollipop jam",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "blu",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"solo",
+			"bluey",
+			[
+				115,
+				215,
+				255
+			]
+		],
+		[
+			"blue groove",
+			"bluey",
+			[
+				115,
+				215,
+				255
+			]
+		],
+		[
+			"final rushhour",
+			"bluey",
+			[
+				115,
+				215,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week 1",
+	"hiddenUntilUnlocked": false
+}

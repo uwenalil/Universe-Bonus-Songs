@@ -1,3 +1,0 @@
-Basically flash's a white image.
-
-No values required.

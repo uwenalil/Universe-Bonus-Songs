@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_heeler_death.png">
+	<SubTexture name="bf heeler die0000" x="0" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler die0001" x="512" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler loop0000" x="512" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="bf heeler retry0000" x="0" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+</TextureAtlas>

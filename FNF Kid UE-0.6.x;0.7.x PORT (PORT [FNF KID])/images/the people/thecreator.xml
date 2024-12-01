@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgKID.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idoxd 10000" x="365" y="2" width="312" height="236" frameX="0" frameY="-9" frameWidth="312" frameHeight="245"/>
+	<SubTexture name="idoxd 10001" x="737" y="2" width="303" height="242" frameX="-6" frameY="-2" frameWidth="312" frameHeight="245"/>
+	<SubTexture name="idoxd 10002" x="2" y="2" width="303" height="244" frameX="-6" frameY="0" frameWidth="312" frameHeight="245"/>
+</TextureAtlas>

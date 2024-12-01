@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "beango idle"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "beango down"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "beango up"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "beango left"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "beango right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/beango",
+	"position": [
+		-1180,
+		-940
+	],
+	"healthicon": "blungo",
+	"flip_x": false,
+	"healthbar_colors": [
+		131,
+		197,
+		249
+	],
+	"camera_position": [
+		420,
+		1230
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.3
+}

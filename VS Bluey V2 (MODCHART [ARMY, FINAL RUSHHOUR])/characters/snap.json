@@ -1,0 +1,40 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				225,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "bluesnap snap",
+			"indices": [
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bluesnap",
+	"position": [
+		-1020,
+		-990
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		1150,
+		940
+	],
+	"sing_duration": 4,
+	"scale": 0.28
+}

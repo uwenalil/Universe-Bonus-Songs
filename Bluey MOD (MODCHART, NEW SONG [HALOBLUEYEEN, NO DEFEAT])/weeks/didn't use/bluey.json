@@ -1,0 +1,50 @@
+{
+	"storyName": "Bluey",
+	"difficulties": "Bluey",
+	"hideFreeplay": false,
+	"weekBackground": "bluey",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Blueytastic",
+			"bluey",
+			[
+				66,
+				213,
+				253
+			]
+		],
+		[
+			"Bingobop",
+			"bingo",
+			[
+				255,
+				160,
+				100
+			]
+		],
+		[
+			"Heeler",
+			"bluey",
+			[
+				120,
+				173,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "blui",
+	"hiddenUntilUnlocked": false
+}

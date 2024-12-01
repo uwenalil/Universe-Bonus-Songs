@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noob.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="roblox walk 10000" x="199" y="2" width="136" height="186" frameX="0" frameY="-3" frameWidth="137" frameHeight="203"/>
+	<SubTexture name="roblox walk 10001" x="2" y="2" width="137" height="187" frameX="0" frameY="0" frameWidth="137" frameHeight="203"/>
+	<SubTexture name="roblox walk 10002" x="1187" y="2" width="95" height="187" frameX="-29" frameY="-16" frameWidth="137" frameHeight="203"/>
+	<SubTexture name="roblox walk 10003" x="1342" y="2" width="96" height="183" frameX="-29" frameY="-20" frameWidth="137" frameHeight="203"/>
+	<SubTexture name="roblox 10000" x="989" y="2" width="138" height="170" frameX="-2" frameY="-6" frameWidth="140" frameHeight="176"/>
+	<SubTexture name="roblox 10001" x="989" y="2" width="138" height="170" frameX="-2" frameY="-6" frameWidth="140" frameHeight="176"/>
+	<SubTexture name="roblox 10002" x="791" y="2" width="138" height="172" frameX="-1" frameY="-4" frameWidth="140" frameHeight="176"/>
+	<SubTexture name="roblox 10003" x="791" y="2" width="138" height="172" frameX="-1" frameY="-4" frameWidth="140" frameHeight="176"/>
+	<SubTexture name="roblox 10004" x="593" y="2" width="138" height="173" frameX="0" frameY="-3" frameWidth="140" frameHeight="176"/>
+	<SubTexture name="roblox 10005" x="593" y="2" width="138" height="173" frameX="0" frameY="-3" frameWidth="140" frameHeight="176"/>
+	<SubTexture name="roblox 10006" x="395" y="2" width="138" height="176" frameX="0" frameY="0" frameWidth="140" frameHeight="176"/>
+	<SubTexture name="roblox 10007" x="395" y="2" width="138" height="176" frameX="0" frameY="0" frameWidth="140" frameHeight="176"/>
+</TextureAtlas>
