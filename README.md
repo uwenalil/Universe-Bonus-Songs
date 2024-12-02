@@ -28,7 +28,7 @@ how to download?
 
 "<> Code" Green Button on the top of the page, then click "Download ZIP"
 
-<a href="https://github.com/uwenalil/Universe-Bonus-Songs"><img src="how2download.png" alt="how2download" width="150"></a>
+<a href="https://github.com/uwenalil/Universe-Bonus-Songs"><img src="how2download.png" alt="how2download" width="450"></a>
 
 then you're done!
 
