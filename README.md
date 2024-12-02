@@ -27,7 +27,9 @@ IF YOU DO POST THIS ON YOUTUBE OR SOMEWHERE, PLEASE CREDIT ME AND THE ORIGINAL M
 how to download?
 
 "<> Code" Green Button on the top of the page, then click "Download ZIP"
+
 <a href="https://github.com/uwenalil/Universe-Bonus-Songs"><img src="how2download.png" alt="how2download" width="150"></a>
 
 then you're done!
+
 <a href="https://github.com/uwenalil/Universe-Bonus-Songs"><img src="nullobject.png" alt="nullobject" width="150"></a>
