@@ -16,7 +16,7 @@
 
 # Ay mate!
 
-heres some bonus songs that work with universe engine and has a modchart?!?!?!
+heres some bonus songs that work with universe engine and (some of them) has a modchart?!?!?!
 
 IF YOU DO POST THIS ON YOUTUBE OR SOMEWHERE, PLEASE CREDIT ME AND THE ORIGINAL MOD MAKERS.
 
@@ -32,4 +32,4 @@ how to download?
 
 then you're done!
 
-<a href="https://github.com/uwenalil/Universe-Bonus-Songs"><img src="nullobject.png" alt="nullobject" width="150"></a>
+<a href="https://github.com/uwenalil/Universe-Bonus-Songs"><img src="nullobject.png" alt="nullobject" width="50"></a>
