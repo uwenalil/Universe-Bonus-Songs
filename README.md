@@ -20,9 +20,7 @@ heres some bonus songs that work with universe engine and (some of them) has a m
 
 IF YOU DO POST THIS ON YOUTUBE OR SOMEWHERE, PLEASE CREDIT ME AND THE ORIGINAL MOD MAKERS.
 
-[Universe engine repo: https://github.com/VideoBotYT/Universe-Engine](https://github.com/VideoBotYT/Universe-Engine)
-
-## [Universe engine repo: https://github.com/VideoBotYT/Universe-Engine](https://github.com/VideoBotYT/Universe-Engine)
+## [Universe engine repo < Click here!](https://github.com/VideoBotYT/Universe-Engine)
 
 #
 
