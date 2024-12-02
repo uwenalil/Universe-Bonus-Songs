@@ -32,8 +32,4 @@ how to download?
 
 then you're done!
 
-
-
-
-
 <a href="https://github.com/uwenalil/Universe-Bonus-Songs"><img src="nullobject.png" alt="nullobject" width="150"></a>
