@@ -22,8 +22,6 @@ IF YOU DO POST THIS ON YOUTUBE OR SOMEWHERE, PLEASE CREDIT ME AND THE ORIGINAL M
 
 ## [Universe engine repo < Click here!](https://github.com/VideoBotYT/Universe-Engine)
 
-#
-
 how to download?
 
 "<> Code" Green Button on the top of the page, then click "Download ZIP"
