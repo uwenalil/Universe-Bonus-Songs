@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/uwenalil/Universe-Bonus-Songs"><img src="universe.png" alt="universe" width="150"></a>
+  <a href="https://github.com/uwenalil/Universe-Bonus-Songs"><img src="universe.png" alt="universeplus" width="150"></a>
   <br>
   <b>Universe Engine Bonus Songs!</b>
   <br>
