@@ -7,16 +7,16 @@
 </h1>
 <h3 align="center">
   <b>
-    they have modchart :o.
+    took inspo from JS Engine.
   </b>
 </h3>
 <h4 align="center">
-  took inspo from JS Engine.
+  insert text here
 </h4>
 
 # Ay mate!
 
-heres some silliest songs that work with universe engine and has a modchart?!?!?!
+heres some bonus songs that work with universe engine and has a modchart?!?!?!
 
 IF YOU DO POST THIS ON YOUTUBE OR SOMEWHERE, PLEASE CREDIT ME AND THE ORIGINAL MOD MAKERS.
 
