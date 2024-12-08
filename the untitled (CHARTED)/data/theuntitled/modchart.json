@@ -1,0 +1,35 @@
+{
+	"events": [
+		[
+			"ease",
+			[
+				0,
+				1,
+				"cubeInOut",
+				"1,asdfgasdf,1,asdfgasdfasdf"
+			],
+			[
+				false,
+				1,
+				1
+			]
+		]
+	],
+	"modifiers": [
+		[
+			"asdfgasdf",
+			"MiddleModifier",
+			"",
+			-1,
+			-1
+		],
+		[
+			"asdfgasdfasdf",
+			"StealthModifier",
+			"Opponent",
+			-1,
+			-1
+		]
+	],
+	"playfields": 1
+}
